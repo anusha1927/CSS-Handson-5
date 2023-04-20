@@ -284,7 +284,7 @@ a {
 	width: 70px;
 	z-index: 3;
 	top: 69.5%;
-	left: 33.5%;
+	left: 33%;
 	animation: wheel 3s infinite linear;
 }
 @keyframes wheel {
@@ -302,7 +302,7 @@ a {
 	width: 70px;
 	z-index: 3;
 	top: 69.5%;
-	left: 56.5%;
+	left: 51.5%;
 	animation: wheel 3s infinite linear;
 }
 
@@ -315,7 +315,7 @@ a {
 	position: absolute;
 	z-index: 3;
 	top: 54.5%;
-	left: 56%;
+	left: 51%;
 }
 .sun {
 	background-image: url(./sun.webp);
