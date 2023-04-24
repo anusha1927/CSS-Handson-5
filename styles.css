@@ -283,8 +283,8 @@ a {
 	height: 70px;
 	width: 70px;
 	z-index: 3;
-	top: 69.5%;
-	left: 33%;
+	top: 68%;
+	left: 32%;
 	animation: wheel 3s infinite linear;
 }
 @keyframes wheel {
@@ -301,8 +301,8 @@ a {
 	height: 70px;
 	width: 70px;
 	z-index: 3;
-	top: 69.5%;
-	left: 51.5%;
+	top: 68%;
+	left: 48.5%;
 	animation: wheel 3s infinite linear;
 }
 
